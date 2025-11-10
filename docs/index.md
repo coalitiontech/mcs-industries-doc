@@ -1,9 +1,9 @@
-# Welcome to PROJECT theme by Coalition Technologies documentation
+# Welcome to MCS Industries theme by Coalition Technologies documentation
 
 ## Developers info
 
-* Base theme: Cornerstone 6.14.0
-* Node: 18.15.0
+* Base theme: Cornerstone 6.17.0
+* Node: 20.16.0
 * Command: stencil start
 
 ## Project pages designed
@@ -11,7 +11,6 @@
 * [Category Page](category/)
 * [Product Page](product/)
 * [Static Page](static/)
-* [Mega Menu](menu/)
 
 ## Page Builder
 Page Builder allows you to customize the different style elements of your theme, like colors, text sizes, the number of featured products to show on the homepage, and more. You can use this to tailor your storefront so it more closely reflects your brand.
