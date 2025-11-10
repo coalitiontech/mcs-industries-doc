@@ -1,0 +1,43 @@
+:root {
+    --var-primary: #254859;
+    --var-primary-dark: #1A323E;
+    --var-secondary: #B3A169;
+    --var-secondary-light: #C9BD95;
+    --var-dark: #313131;
+    --var-light: #F9F9F8;
+}
+
+.wy-side-nav-search {
+    background-color: var(--var-primary-dark);
+    margin: 0;
+}
+
+.wy-nav-side {
+    background-color: var(--var-secondary-light);
+}
+
+.rst-versions .rst-current-version {
+    background-color: var(--var-primary);
+}
+
+.wy-nav-content a {
+    color: var(--var-primary);
+}
+
+.wy-menu-vertical a {
+    color: var(--var-dark);
+}
+
+.wy-menu-vertical a:hover {
+    background-color: var(--var-primary);
+    color: var(--var-light);
+}
+
+.wy-menu-vertical li.toctree-l1.current>a {
+    background-color: var(--var-secondary);
+    border: 0;
+}
+
+.wy-menu-vertical li.current ul {
+    background-color: var(--var-light);
+}
