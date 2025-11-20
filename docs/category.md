@@ -1,6 +1,21 @@
 # Category Page
 The category page lists all the products in the category.
 
+## Banner
+![category.png](img/category.png)
+
+Navigate to <a href="https://store-xo5yyw8aht.mybigcommerce.com/manage/products/categories">category section</a> on the bigcommerce dashboard, and select the category to edit:
+
+![category-bc-edit.png](img/category-bc-edit.png)
+
+Scroll of the category image section:
+
+![category-bc-screenshot.png](img/category-bc-screenshot.png)
+
+Click the three dots to change or delete category banner image.
+
+Save to publish changes.
+
 ## Title and Description
 It contains the category name and description.
 
