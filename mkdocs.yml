@@ -4,6 +4,7 @@ nav:
   - Home: home.md
   - Category: category.md
   - Product: product.md
+  - Brand: brand.md
   - Static: static.md
   - Other: other.md
 theme: readthedocs
