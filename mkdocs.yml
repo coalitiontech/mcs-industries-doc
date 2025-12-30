@@ -1,6 +1,8 @@
 site_name: MCS Industries - CT
 nav:
   - General: index.md
+  - Header: header.md
+  - Footer: footer.md
   - Home: home.md
   - Category: category.md
   - Product: product.md

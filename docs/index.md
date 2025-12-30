@@ -7,10 +7,12 @@
 * Command: stencil start
 
 ## Project pages designed
-* [Homepage](home/)
-* [Category Page](category/)
-* [Product Page](product/)
-* [Static Page](static/)
+* [Header](header.md)
+* [Footer](footer.md)
+* [Homepage](home.md)
+* [Category Page](category.md)
+* [Product Page](product.md)
+* [Static Page](static.md)
 
 ## Page Builder
 Page Builder allows you to customize the different style elements of your theme, like colors, text sizes, the number of featured products to show on the homepage, and more. You can use this to tailor your storefront so it more closely reflects your brand.

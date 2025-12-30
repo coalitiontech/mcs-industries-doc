@@ -4,7 +4,7 @@ The category page lists all the products in the category.
 ## Banner
 ![category.png](img/category.png)
 
-Navigate to <a href="https://store-xo5yyw8aht.mybigcommerce.com/manage/products/categories">category section</a> on the bigcommerce dashboard, and select the category to edit:
+Navigate to <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/products/categories">category section</a> on the bigcommerce dashboard, and select the category to edit:
 
 ![category-bc-edit.png](img/category-bc-edit.png)
 

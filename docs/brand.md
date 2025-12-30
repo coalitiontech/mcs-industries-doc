@@ -4,7 +4,7 @@ The brand page lists all the products in the brand.
 ## Banner
 ![brand-banner.png](img/brand-banner.png)
 
-Navigate to <a href="https://store-xo5yyw8aht.mybigcommerce.com/manage/marketing/banners">marketing banners</a> on the bigcommerce dashboard, and click create a banner:
+Navigate to <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/marketing/banners">marketing banners</a> on the bigcommerce dashboard, and click create a banner:
 
 ![brand-marketting-banner-list.png](img/brand-marketting-banner-list.png)
 

@@ -5,7 +5,7 @@ The homepage is the main page of the website. It is the first page that the user
 
 ![hero-banner.png](img/hero-banner.png)
 
-Navigate to the <a href="https://store-xo5yyw8aht.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a>, and click on the banner which will display the banner options, change the banner images through following option and easily switch between layouts:
+Navigate to the <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a>, and click on the banner which will display the banner options, change the banner images through following option and easily switch between layouts:
 
 ![header-images.png](img/header-images.png)
 
@@ -20,7 +20,7 @@ Click publish button to save changes.
 
 ![categories-slider.png](img/categories-slider.png)
 
-Navigate to the <a href="https://store-xo5yyw8aht.mybigcommerce.com/manage/products/categories">product categories</a>, expand the frames category, currently its setup to showcase subcategories of only frame category:
+Navigate to the <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/products/categories">product categories</a>, expand the frames category, currently its setup to showcase subcategories of only frame category:
 
 ![categories-bc.png](img/categories-bc.png)
 
@@ -41,7 +41,7 @@ Save the changes.
 
 ![brands.png](img/brands.png)
 
-Navigate to the </a href="https://store-xo5yyw8aht.mybigcommerce.com/manage/products/brands">product brands</a>. It shows list of all brands on the store, select one of the brands by clicking it.
+Navigate to the </a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/products/brands">product brands</a>. It shows list of all brands on the store, select one of the brands by clicking it.
 
 ![brands-bc-list.png](img/brands-bc-list.png)
 
@@ -54,7 +54,7 @@ Save the changes.
 ## About Us
 ![about-us-banner.png](img/about-us-banner.png)
 
-Navigate to the <a href="https://store-xo5yyw8aht.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a>, and click on the about us banner which will display the banner options. Change the banner images through following option and easily switch between layouts:
+Navigate to the <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a>, and click on the about us banner which will display the banner options. Change the banner images through following option and easily switch between layouts:
 
 ![about-us-banner-bc.png](img/about-us-banner-bc.png)
 
@@ -63,7 +63,7 @@ Publish to save changes.
 ## Reviews
 ![reviews.png](img/reviews.png)
 
-Navigate to the <a href="https://store-xo5yyw8aht.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a> and scroll down to the reviews section and click it to display the options. Add, remove and edit reviews as displayed/marked in following screenshot:
+Navigate to the <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a> and scroll down to the reviews section and click it to display the options. Add, remove and edit reviews as displayed/marked in following screenshot:
 
 ![reviews-bc.png](img/reviews-bc.png)
 
@@ -76,7 +76,7 @@ Publish to save changes.
 ## Affiliations
 ![affiliations.png](img/affiliations.png)
 
-Navigate to the <a href="https://store-xo5yyw8aht.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a> and scroll down to the affiliations section and click it to display the options. Add, remove and edit affiliations as displayed/marked in following screenshot:
+Navigate to the <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a> and scroll down to the affiliations section and click it to display the options. Add, remove and edit affiliations as displayed/marked in following screenshot:
 
 Add, remove and edit affiliations as displayed/marked in following screenshot:
 
