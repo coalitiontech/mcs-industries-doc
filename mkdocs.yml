@@ -8,6 +8,7 @@ nav:
   - Product: product.md
   - Brand: brand.md
   - Static: static.md
+  - Page: page.md
   - Other: other.md
 theme: readthedocs
 extra_css:

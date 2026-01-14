@@ -27,7 +27,7 @@
 
 ## B2B Link
 
-1- Navigate to the <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a>.
+1- Navigate to the <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a> and edit the following marked area with the desired changes:
 
 ![footer-bc-b2b-link.png](img/footer-bc-b2b-link.png)
 

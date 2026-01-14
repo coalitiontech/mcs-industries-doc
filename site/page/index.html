@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
-    <title>Product - MCS Industries - CT</title>
+    <title>Page - MCS Industries - CT</title>
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
@@ -13,8 +13,8 @@
     
       <script>
         // Current page data
-        var mkdocs_page_name = "Product";
-        var mkdocs_page_input_path = "product.md";
+        var mkdocs_page_name = "Page";
+        var mkdocs_page_input_path = "page.md";
         var mkdocs_page_url = null;
       </script>
     
@@ -60,12 +60,8 @@
                 <li class="toctree-l1"><a class="reference internal" href="../category/">Category</a>
                 </li>
               </ul>
-              <ul class="current">
-                <li class="toctree-l1 current"><a class="reference internal current" href="#">Product</a>
-    <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#customer-reviews">Customer Reviews</a>
-    </li>
-    </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../product/">Product</a>
                 </li>
               </ul>
               <ul>
@@ -76,8 +72,14 @@
                 <li class="toctree-l1"><a class="reference internal" href="../static/">Static</a>
                 </li>
               </ul>
-              <ul>
-                <li class="toctree-l1"><a class="reference internal" href="../page/">Page</a>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="#">Page</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#note">Note:</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#steps-to-update-the-data-table-for-both-sandbox-and-live-store">Steps to update the data / table, for both sandbox and live store:</a>
+    </li>
+    </ul>
                 </li>
               </ul>
               <ul>
@@ -98,7 +100,7 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
-      <li class="breadcrumb-item active">Product</li>
+      <li class="breadcrumb-item active">Page</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -107,20 +109,27 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h1 id="product-page">Product Page</h1>
-<p>The product page displays the information about the product. It includes the product name, description, price, options, and an image of the product.</p>
-<p>Most of the product page is built with the default BigCommerce settings, for more information regarding how to add a product in Bigcommerce, refer to this <a href="https://support.bigcommerce.com/s/article/Products-Overview?language=en_US" target="_blank">documentation</a></p>
-<p>There are some parts on the product page that need to follow specific guidelines.</p>
-<h2 id="customer-reviews">Customer Reviews</h2>
-<p><img alt="product-page-review.png" src="../img/product-page-review.png" /></p>
-<p>BigCommerce allows to easily manage product reviews by approving, editing, or deleting them through the dashboard. 
-Please refer to the BigCommerce <a href="https://support.bigcommerce.com/s/article/Managing-Reviews?language=en_US" target="_blank">documentation</a> for more details.</p>
+                <h1 id="patents">Patents</h1>
+<p><img alt="patents.png" src="../img/patents.png" /></p>
+<h4 id="note">Note:</h4>
+<p>Please make sure following template is select under patent:</p>
+<p>Template Layout File - patents - Live store - <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/channel/1/pages/12/edit">Patents Page BC Link</a></p>
+<p><img alt="patents-bc-edit.png" src="../img/patents-bc-edit.png" /></p>
+<h2 id="steps-to-update-the-data-table-for-both-sandbox-and-live-store">Steps to update the data / table, for both sandbox and live store:</h2>
+<ol>
+<li>Enable and connect webdav by following the linked document.</li>
+<li>Navigate to the excel folder as shared below:
+<img alt="patents-wedav.png" src="../img/patents-wedav.png" /></li>
+<li>Upload through the marked button, please make sure to follow the requirement of keeping the new file name as patents-sheet.csv, we can either delete the existing/old file or rename it to patents-sheet-1.csv by appending a number in case we feel like keeping a track or backup of old files.
+<img alt="patents-wedav-upload.png" src="../img/patents-wedav-upload.png" /></li>
+<li>Once uploaded, the table will update automatically, no further steps required.</li>
+</ol>
               
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../category/" class="btn btn-neutral float-left" title="Category"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../brand/" class="btn btn-neutral float-right" title="Brand">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../static/" class="btn btn-neutral float-left" title="Static"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../other/" class="btn btn-neutral float-right" title="Other">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
@@ -143,10 +152,10 @@ Please refer to the BigCommerce <a href="https://support.bigcommerce.com/s/artic
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href="../category/" style="color: #fcfcfc">&laquo; Previous</a></span>
+      <span><a href="../static/" style="color: #fcfcfc">&laquo; Previous</a></span>
     
     
-      <span><a href="../brand/" style="color: #fcfcfc">Next &raquo;</a></span>
+      <span><a href="../other/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
