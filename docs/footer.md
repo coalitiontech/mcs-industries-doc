@@ -24,11 +24,3 @@
 2- Editing the marked will change the respective text.
 
 ![footer-contact-us-bc.png](img/footer-contact-us-bc.png)
-
-## B2B Link
-
-1- Navigate to the <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a> and edit the following marked area with the desired changes:
-
-![footer-bc-b2b-link.png](img/footer-bc-b2b-link.png)
-
-2- Save to preview and publish to push it to live.
