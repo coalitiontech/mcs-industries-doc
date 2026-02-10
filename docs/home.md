@@ -15,8 +15,7 @@ Easily change banner content through following options:
 
 Click publish button to save changes.
 
-## Featured Categories 
-<strong>Note: Only subcategories with an image will be shown.</strong>
+## Featured Categories
 
 ![categories-slider.png](img/categories-slider.png)
 
