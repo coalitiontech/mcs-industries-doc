@@ -20,21 +20,19 @@ Click publish button to save changes.
 
 ![categories-slider.png](img/categories-slider.png)
 
-Navigate to the <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/products/categories">product categories</a>, expand the frames category, currently its setup to showcase subcategories of only frame category:
+Navigate to the <a href="https://store-pyabsa1eqo.mybigcommerce.com/manage/page-builder?channelId=1">page builder</a>, click on the category section as marked below:
 
-![categories-bc.png](img/categories-bc.png)
+![categories-bc.png](img/category-bc.png)
 
-![categories-bc-marked.png](img/categories-bc-marked.png)
+Add the category slider as marked following:
 
-Click on one of the category:
+![category-bc-add-slider.png](img/category-bc-add-slider.png)
 
-![category-bc.png](img/category-bc.png)
+Edit the category slider by making changes to option on the left sidebar panel:
 
-Add or change category image by scrolling to following marked area:
+![category-bc-sidebar.png](img/category-bc-sidebar.png)
 
-![edit-category-bc.png](img/edit-category-bc.png)
-
-Save the changes.
+Click the Publish button to save the changes.
 
 ## Featured Brands
 <strong>Note: Only brands with an image will be shown.</strong>
